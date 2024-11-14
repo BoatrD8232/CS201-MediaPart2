@@ -1,0 +1,46 @@
+Error- invalid stoi argument: M,Hidden Figures,9,Drama,126,2016,Jaraji P Henson,Octavia Spencer,Janelle Monae
+
+Error- invalid year: B,Hamlet,William Shakespeare,4,Tragedy,214,1600,5
+
+Error- invalid stoi argument: B,Fahrenheit 451,Ray Bradbury,Sci-Fi,256,1953,8
+
+Error- invalid rating: M,So I Married an Axe Murderer,Thomas Schlamme,15,Comedy,93,1993,Mike Meyers,Nancy Travis
+
+Error- invalid year: B,Crime and Punishment,Fyodor Dostoevsky,7,Crime Fiction,576,1866,15
+
+Error in reading weeks: B,Watchmen,Alan Moore,8,Sci-Fi,416,1987,ERROR
+
+Error- invalid year: S,Baba Yetu,Christopher Tin,10,Choir,203,2025,0
+
+Error- invalid stoi argument: S,Blinding Lights,the Weeknd,10,9,INVALID,2020,1
+
+Error in reading Top 40: S,Stayin' Alive,Bee Gees,10,Pop,419,1979,ERROR
+
+Error- rating of 11 is invaild
+
+Error- rating of -3 is invaild
+
+Cannot add item- invaild rating: Psych 2: Lassie Come Home
+
+Cannot add item- invalid stoi argument: Respect
+
+Cannot add item- invalid stoi argument: Strawberry Fields Forever
+
+Error in reading Top 40: Strawberry Fields Forever
+
+Error in reading weeks: Close Encounters
+
+Cannot add item- invalid stoi argument: The Brothers Hawthorne
+
+Cannot add item- invalid year: Lessons in Chemistry
+
+Error- rating of 15 is invaild
+
+Error - No items of genre none
+
+Error - No movie named Lost
+
+Error - No movies starring Victor Lee
+
+Error - No items produced by Harrison Ford
+
